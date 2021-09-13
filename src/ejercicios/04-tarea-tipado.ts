@@ -1,9 +1,6 @@
 /*
     ===== Código de TypeScript =====
 */
-
-import { isConstructorDeclaration } from "typescript";
-
 interface SuperHeroe{
 
     nombre:string;
